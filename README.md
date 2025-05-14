@@ -1,2 +1,0 @@
-# curry-website
-college assignment 
